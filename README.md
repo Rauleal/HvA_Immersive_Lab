@@ -52,5 +52,4 @@ Once the SDK is installed, follow the following steps:
 * Add the NDI In TOP to your TouchDesigner network.
   * Write the IP of your phone on the "Extra Search IPs."
   * Your phone should now be selectable on the Source field. By selecting it, you should see the image.
-  * The depth info is coded in the alpha channel.
-  * Use a Chamix TOP to extract it; follow https://youtu.be/dfKfVJfy7SI?si=m3RAjZf14sFxH8wb for more details. 
+  * The depth info is coded in the alpha channel. Use a Chamix TOP to extract it; follow https://youtu.be/dfKfVJfy7SI?si=m3RAjZf14sFxH8wb for more details. 
